@@ -1,2 +1,1 @@
-# Reefscape
-Team Scrap Metal, FRC Team 10256's robot code for the 2025 FRC game Reefscape. This uses team Mechanical Advantage's Advantage Kit Code structure.
+Why this exists is beyond me, I just tried to push the code to what I actually wanted to push to 
